@@ -1,5 +1,13 @@
-# Luxe-Estates
-Here's a README report 
+
+
+README: LUXE ESTATE Website
+
+Overview
+
+LUXE ESTATE is a fully responsive, ultra-premium real estate landing page designed to present luxury properties and services in a sophisticated and elegant manner. This HTML file combines modern design aesthetics with smooth user interactions, ideal for showcasing high-end real estate portfolios.
+
+
+---
 
 File Contents
 
@@ -136,5 +144,5 @@ The hero section and images use inline SVG and gradients instead of external med
 
 No backend code or form submission logic is present.
 
-Best viewed on a wide screen due to luxury branding design
+Best viewed on a wide screen due to luxury branding design.
 
